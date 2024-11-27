@@ -104,7 +104,7 @@ input:hover {
         height: 60px;
     }
 }
-button{
+#button{
     height: 70px;
     width: 250px;
     background-color: #4c6ef5; 
@@ -118,7 +118,7 @@ button{
     transition: all 0.3s ease; 
   
 }
-button:hover{
+#button:hover{
     background-color: #00bcd4;
     color: #fff;
     font-size: 22px;
